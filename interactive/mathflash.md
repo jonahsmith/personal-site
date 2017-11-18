@@ -6,7 +6,7 @@ layout: project-page
 category: interactive
 order: 2
 preview_image: /mathflash/preview.jpg
-permalink: /interactive/math-flash
+permalink: /interactive/mathflash
 ---
 
 ![Math Flash](/assets/images/portfolio/mathflash/mathflash.jpg)

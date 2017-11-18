@@ -5,7 +5,7 @@ layout: project-page
 
 category: interactive
 order: 3
-permalink: /interactive/text-to-pledge
+permalink: /interactive/pledge
 preview_image: /pledge/preview.jpg
 ---
 
