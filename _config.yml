@@ -1,0 +1,9 @@
+title: Jonah Smith
+email: smith.jonah@gmail.com
+description: Jonah Smith's personal portfolio and blog.
+url: "http://jonah-smith.com"
+twitter_username: jonahesmith
+github_username:  jonahsmith
+
+markdown: kramdown
+permalink: /blog/:title
