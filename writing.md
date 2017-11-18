@@ -21,7 +21,7 @@ order: 6
         <h3 class="writingPreview-date">Fall 2014</h3>
     </div>
     <div class="writingPreview">
-        <h2 class="writingPreview-title balance-text"><a href="/writing/noncogs/">(Non)cogs in the Wheel: Early Noncognitive Traits and High School Graduation</a></h2>
+        <h2 class="writingPreview-title balance-text"><a href="/writing/noncogs">(Non)cogs in the Wheel: Early Noncognitive Traits and High School Graduation</a></h2>
         <h3 class="writingPreview-context">Senior Thesis, Department of Sociology, Columbia University</h3>
         <h3 class="writingPreview-date">Spring 2014</h3>
     </div>
