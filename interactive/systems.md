@@ -1,12 +1,8 @@
 ---
 title: Building Systems Explorer
 subtitle: BuroHappold Engineering
-permalink: /interactive/systems
 layout: project-page
-
-category: interactive
-order: 8
-preview_image: /systems/preview.jpg
+permalink: /interactive/systems
 ---
 
 [BuroHappold Engineering](http://www.burohappold.com) is an international

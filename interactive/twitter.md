@@ -1,12 +1,8 @@
 ---
 title: Twitter Submission System
 subtitle: Open Syllabus Project
-permalink: /interactive/twitter
+permalink: /interactive/twitter/
 layout: project-page
-
-category: interactive
-order: 5
-preview_image: /twitter-scraper/preview.jpg
 ---
 
 The [Open Syllabus Project](http://opensyllabusproject.org/) is an effort to
@@ -36,12 +32,12 @@ This is an actual runtime situation navigated by the code. A user submitted a
 Git repository, an invalid file format for submission, and received feedback on
 why it could not be collected.
 
-![Error](/assets/images/portfolio/twitter-scraper/error.png)
+![Error](/assets/images/portfolio/twitter/error.png)
 
 The user corrected the mistake in a subsequent tweet, and received feedback
 about the success of the submission.
 
-![Success](/assets/images/portfolio/twitter-scraper/success.png)
+![Success](/assets/images/portfolio/twitter/success.png)
 
 ## Why it matters
 

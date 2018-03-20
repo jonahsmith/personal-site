@@ -2,18 +2,16 @@
 layout: default
 ---
 
-<!-- <h1 class="homeTitle">Projects</h1> -->
-{% assign interactive_pages = site.pages | where: "category", "interactive" | sort: "order" %}
 <div class="projectList">
-{% for page in interactive_pages %}
+    {% for page in site.data.featured %}
 	<div class="project">
-		{% if page.preview_image %}
-		<a href="{{ page.url }}">
-			<img class="project-preview" src="/assets/images/portfolio{{ page.preview_image }}"></img>
+		{% if page.featured_image %}
+		<a href="{{ page.permalink }}">
+			<img class="project-preview" src="/assets/images/portfolio{{ page.featured_image }}"></img>
 		</a>
 		{% endif %}
-		<h1 class="project-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-		<h2 class="project-subtitle">{{ page.subtitle }}</h2>
+		<h1 class="project-title"><a href="{{ page.permalink }}">{{ page.name }}</a></h1>
+		<h2 class="project-subtitle">{{ page.company }}</h2>
 	</div>
-{% endfor %}
+    {% endfor %}
 </div>

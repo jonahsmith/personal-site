@@ -1,12 +1,8 @@
 ---
 title: Tucson Streetcar Analysis
 subtitle: <i>The New York Times</i> Student Journalism Institute
-permalink: /interactive/streetcar
 layout: project-page
-
-category: interactive
-order: 1
-preview_image: /streetcar/preview.jpg
+permalink: /interactive/streetcar
 ---
 
 ![Streetcar Chart](/assets/images/portfolio/streetcar/streetcar-paper.jpg)

@@ -3,10 +3,6 @@ title: Building Benchmarker
 subtitle: BuroHappold Engineering
 permalink: /interactive/benchmark/
 layout: project-page
-
-category: interactive
-order: 7
-preview_image: /benchmark/preview.jpg
 ---
 
 [BuroHappold Engineering](http://www.burohappold.com) is an international

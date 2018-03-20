@@ -2,11 +2,7 @@
 title: Math Flash
 subtitle: MoMath&#58; the National Museum of Mathematics
 layout: project-page
-
-category: interactive
-order: 2
-preview_image: /mathflash/preview.jpg
-permalink: /interactive/mathflash
+permalink: /interactive/mathflash/
 ---
 
 ![Math Flash](/assets/images/portfolio/mathflash/mathflash.jpg)

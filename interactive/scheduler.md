@@ -1,12 +1,8 @@
 ---
 title: Building Usage Scheduler
 subtitle: BuroHappold Engineering
-permalink: /interactive/scheduler
 layout: project-page
-
-category: interactive
-order: 9
-preview_image: /scheduler/preview.jpg
+permalink: /interactive/scheduler/
 ---
 
 [BuroHappold Engineering](http://www.burohappold.com) is an international
@@ -22,7 +18,7 @@ Sustainability Team for use in energy modeling. The current workflow is
 cumbersome. I was tasked with imagining and prototyping a new web system
 allowing clients to provide scheduling information to the Sustainability Team.
 
-## How it works 
+## How it works
 
 By studying the current ways of providing scheduling information to BuroHappold
 and the ways that the Sustainability Team inputs scheduling data into their
