@@ -7,7 +7,7 @@ $light-text: #464646;
 body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: $dark-text;
-    margin: 0 20px;
+    margin: 0 3%;
 }
 
 h1, h2, h3, h4 {
@@ -31,7 +31,6 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    max-width: 1000px;
     margin: 0 auto;
     padding: 20px 0;
 
@@ -52,38 +51,38 @@ nav {
 
 }
 
+// .projectList {
+//     margin: 0 auto;
+//     display: flex;
+//     flex-wrap: wrap;
+//     justify-content: flex-start;
+//     margin-top: 1em;
+// }
+
 .projectList {
-    margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    margin-top: 1em;
+    margin-top: 2%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 3%;
+
+    @media screen and (max-width: 768px) {
+        grid-template-columns: 1fr;
+    }
 }
 
 .project {
-    width: 50%;
-    padding: 20px;
-    margin-bottom: 20px;
+    width: 100%;
+    margin-bottom: 6%;
     display: inline-block;
-
-    @media screen and (min-width: 1100px) {
-        width: 33%;
-    }
-
-    @media screen and (max-width: 768px) {
-        width: 100%;
-        padding: 0;
-        margin-bottom: 3em;
-    }
 
     .project-preview {
         max-width: 100%;
-        border: 1px solid $light-text;
     }
 
     .project-title {
-        margin-bottom: 0;
-        font-size: 16px;
+        margin-top: 0.4em;
+        margin-bottom: 0.25em;
+        font-size: 1em;
         text-transform: uppercase;
     }
 
@@ -96,7 +95,6 @@ nav {
         font-size: 12px;
         font-weight: 400;
         margin: 0;
-        margin-top: 0.5em;
     }
 }
 
