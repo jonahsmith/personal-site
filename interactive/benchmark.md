@@ -1,7 +1,6 @@
 ---
 title: Building Benchmarker
 subtitle: BuroHappold Engineering
-permalink: /interactive/benchmark/
 layout: project-page
 ---
 

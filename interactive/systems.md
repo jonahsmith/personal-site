@@ -2,7 +2,6 @@
 title: Building Systems Explorer
 subtitle: BuroHappold Engineering
 layout: project-page
-permalink: /interactive/systems
 ---
 
 [BuroHappold Engineering](http://www.burohappold.com) is an international

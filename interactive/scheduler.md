@@ -2,7 +2,6 @@
 title: Building Usage Scheduler
 subtitle: BuroHappold Engineering
 layout: project-page
-permalink: /interactive/scheduler/
 ---
 
 [BuroHappold Engineering](http://www.burohappold.com) is an international

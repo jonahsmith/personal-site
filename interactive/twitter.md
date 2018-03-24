@@ -1,7 +1,6 @@
 ---
 title: Twitter Submission System
 subtitle: Open Syllabus Project
-permalink: /interactive/twitter/
 layout: project-page
 ---
 

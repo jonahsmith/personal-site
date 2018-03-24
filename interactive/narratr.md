@@ -1,7 +1,6 @@
 ---
 title: narratr
 layout: project-page
-permalink: /interactive/narratr/
 ---
 
 I am a co-creator of and major contributor to narratr, an open source language for creating interactive fiction and text adventures.
