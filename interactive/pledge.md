@@ -2,7 +2,6 @@
 title: Text-to-Pledge System
 subtitle: MoMath&#58; the National Museum of Mathematics
 layout: project-page
-permalink: /interactive/pledge/
 ---
 
 <div class='embed-container'>

@@ -6,21 +6,21 @@
 -
   name: Math Flash
   company: "MoMath: the National Museum of Mathematics"
-  permalink: /interactive/mathflash/
+  permalink: /interactive/mathflash
   featured_image: /mathflash/preview.jpg
 -
   name: Text-to-Pledge System
   company: "MoMath: the National Museum of Mathematics"
-  permalink: /interactive/pledge/
+  permalink: /interactive/pledge
   featured_image: /pledge/preview.jpg
 -
   name: narratr
-  permalink: /interactive/narratr/
+  permalink: /interactive/narratr
   featured_image: /narratr/preview.jpg
 -
   name: Twitter Submission System
   company: Open Syllabus Project
-  permalink: /interactive/twitter/
+  permalink: /interactive/twitter
   featured_image: /twitter/preview.jpg
 -
   name: Writing Clips
@@ -29,15 +29,15 @@
 -
   name: Building Benchmarker
   company: BuroHappold Engineering
-  permalink: /interactive/benchmark/
+  permalink: /interactive/benchmark
   featured_image: /benchmark/preview.jpg
 -
   name: Building Systems Explorer
   company: BuroHappold Engineering
-  permalink: /interactive/systems/
+  permalink: /interactive/systems
   featured_image: /systems/preview.jpg
 -
   name: Building Usage Scheduler
   company: BuroHappold Engineering
-  permalink: /interactive/scheduler/
+  permalink: /interactive/scheduler
   featured_image: /scheduler/preview.jpg
