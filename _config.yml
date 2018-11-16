@@ -7,3 +7,5 @@ github_username:  jonahsmith
 
 markdown: kramdown
 permalink: /blog/:title
+sass:
+  sass_dir: assets/css
