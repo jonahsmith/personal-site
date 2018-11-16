@@ -13,6 +13,6 @@ Feel free to connect with me through [Twitter](https://twitter.com/jonahesmith),
 
 ## Credits
 
-Site design loosely inspired by [Luca Lomgobardi's portfolio](https://longobardiluca.com/), discovered through Fonts In Use.
+Site design inspired by [Luca Longobardi's portfolio](https://longobardiluca.com/), discovered through Fonts In Use.
 
 This site uses [sanitize.css](https://csstools.github.io/sanitize.css/) and [text-balancer](https://github.com/NYTimes/text-balancer).
