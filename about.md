@@ -10,3 +10,9 @@ I currently lead technology at MoMath, the National Museum of Mathematics. Previ
 ## Contact
 
 Feel free to connect with me through [Twitter](https://twitter.com/jonahesmith), [GitHub](https://github.com/jonahsmith), or [LinkedIn](https://www.linkedin.com/pub/jonah-smith/82/7bb/8b7).
+
+## Credits
+
+Site design loosely inspired by [Luca Lomgobardi's portfolio](https://longobardiluca.com/), discovered through Fonts In Use.
+
+This site uses [sanitize.css](https://csstools.github.io/sanitize.css/) and [text-balancer](https://github.com/NYTimes/text-balancer).
