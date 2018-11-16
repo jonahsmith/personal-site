@@ -4,14 +4,13 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" type="text/css" href="/assets/css/sanitize.css">
         <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
-        <script src="/assets/js/text-balancer.js" async></script>
-        <title>{{ page.title }}</title>
+        <title>{{ page.title }}{% if page.layout != 'home' %} - {{ site.title }}{% endif %}</title>
     </head>
     <body>
         <nav>
             <div class="navbar-title"><a href="/">Jonah Smith</a></div>
             <div class="navbar-navlinks">
-                <a href="/blog">Blog</a>
+                <a href="/">Projects</a>
                 <a href="/about">About</a>
             </div>
         </nav>
