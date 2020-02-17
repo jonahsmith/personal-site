@@ -2,20 +2,15 @@
 layout: default
 ---
 
-<div class="callout">
+<div class="page-content">
 	{{ content }}
-</div>
-
-<div class="projectList">
-    {% for page in site.data.featured %}
-	<div class="project">
-		{% if page.featured_image %}
-		<a href="{{ page.permalink }}">
-			<img class="project-preview" src="/assets/images/portfolio{{ page.featured_image }}"></img>
-		</a>
-		{% endif %}
-		<h1 class="project-title"><a href="{{ page.permalink }}">{{ page.name }}</a></h1>
-		<h2 class="project-subtitle">{{ page.company }}</h2>
-	</div>
-    {% endfor %}
+	<h2>Selected Projects</h2>
+  {% for page in site.data.featured %}
+		<section class="project">
+			<h3 class="project-title"><a href="{{ page.permalink }}">{{ page.name }}</a></h3>
+			<p class="project-subtitle">{{ page.company }}</p>
+		</section>
+	{% endfor %}
+	<h2>Contact</h2>
+	<p>Feel free to connect with me on <a href="https://twitter.com/jonahesmith" rel="nofollow">Twitter</a>, <a href="https://github.com/jonahsmith">GitHub</a>, or <a href="https://www.linkedin.com/pub/jonah-smith/82/7bb/8b7" rel="nofollow">LinkedIn</a>.</p>
 </div>

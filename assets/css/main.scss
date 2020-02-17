@@ -5,15 +5,19 @@
 
 $dark-text: #111;
 $light-text: #464646;
+$max-width: 600px;
 
 body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: $dark-text;
-    margin: 0 3%;
+    margin: 2em 2% 4em;
+    line-height: 1.4;
 }
 
 h1, h2, h3, h4 {
     letter-spacing: -0.015em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
 }
 
 img {
@@ -28,82 +32,55 @@ a:visited {
     color: $dark-text;
 }
 
-nav {
-
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 0 auto;
-    padding: 20px 0;
+.site-title {
+    max-width: $max-width;
+    margin: 0 auto 1.25em;
+    color: $dark-text;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 24px;
 
     a {
-        color: $dark-text;
         text-decoration: none;
-    }
-
-    .navbar-title {
-        text-transform: uppercase;
-        font-weight: bolder;
-        font-size: 24px;
-    }
-
-    .navbar-navlinks :not(:last-child) {
-        margin-right: 20px;
-    }
-
-}
-
-.callout {
-    font-size: 2rem;
-}
-
-.projectList {
-    margin-top: 2%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-column-gap: 3%;
-
-    @media screen and (max-width: 768px) {
-        grid-template-columns: 1fr;
     }
 }
 
 .project {
-    width: 100%;
-    margin-bottom: 6%;
-    display: inline-block;
-
-    .project-preview {
-        max-width: 100%;
-    }
-
-    .project-title {
-        margin-top: 0.4em;
-        margin-bottom: 0.25em;
-        font-size: 1em;
-        text-transform: uppercase;
-    }
-
     a {
         color: $dark-text;
         text-decoration: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    .project-title {
+        margin: 0;
     }
 
     .project-subtitle {
-        font-size: 12px;
-        font-weight: 400;
-        margin: 0;
+        margin-top: 0em;
     }
 }
 
 .page-content {
-    max-width: 768px;
     margin: 0 auto;
 
-    p, li {
-        font-family: Georgia, 'Times New Roman', serif;
-        font-size: 18px;
-        line-height: 1.4em;
+    * {
+        max-width: $max-width;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    img {
+        max-width: 100%;
+
+        @media only screen and (min-width: 768px) {
+            width: 768px;
+            max-width: none;
+            margin-left: calc((100% - 768px)/2);
+        }
     }
 
     .blog-titleBlock {
