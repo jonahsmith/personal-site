@@ -4,8 +4,10 @@ subtitle: MoMath&#58; the National Museum of Mathematics
 layout: project-page
 ---
 
-<div class='embed-container'>
-    <iframe src='https://player.vimeo.com/video/142049930?title=0&byline=0&portrait=0' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<div class="embed-wrapper">
+    <div class="embed-container">
+        <iframe src='https://player.vimeo.com/video/142049930?title=0&byline=0&portrait=0' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    </div>
 </div>
 
 I developed a text-to-pledge system for MoMath, the National Museum of Mathematics, located in lower Manhattan. The system is a web app to collect donation pledges via a standard SMS text message at fundraising events and visualize the incoming data stream in real time.

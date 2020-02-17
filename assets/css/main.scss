@@ -12,12 +12,26 @@ body {
     color: $dark-text;
     margin: 2em 2% 4em;
     line-height: 1.4;
+
+    @media (prefers-color-scheme: dark) {
+        background: #1a1a1a;
+        color: #fff;
+
+        a,
+        a:hover,
+        a:active,
+        a:focus,
+        a:visited {
+            color: #fff;
+        }
+    }
 }
 
 h1, h2, h3, h4 {
     letter-spacing: -0.015em;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
+    line-height: 1;
 }
 
 img {
@@ -47,7 +61,6 @@ a:visited {
 
 .project {
     a {
-        color: $dark-text;
         text-decoration: none;
 
         &:hover {
@@ -120,14 +133,17 @@ a:visited {
 
 }
 
+.embed-wrapper {
+    width: $max-width;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
 .embed-container {
     position: relative;
     padding-bottom: 56.25%;
     height: 0;
     overflow: hidden;
-    max-width: 100%;
-    margin-top: 3em;
-    margin-bottom: 3em;
 }
 
 .embed-container iframe,
