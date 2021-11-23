@@ -1,6 +1,6 @@
 ---
 title: New York City Council Discretionary Funding Analysis
-subtitle: Completed for the class "Explanatory Journalism in Politics and Policy," taught by Thomas Edsall
+company: Completed for the class "Explanatory Journalism in Politics and Policy," taught by Thomas Edsall
 layout: page
 ---
 

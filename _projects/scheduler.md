@@ -1,6 +1,7 @@
 ---
 title: Building Usage Scheduler
-subtitle: BuroHappold Engineering
+company: BuroHappold Engineering
+date: 2014-07-01
 layout: project-page
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Text-to-Pledge System
-subtitle: MoMath&#58; the National Museum of Mathematics
+company: MoMath&#58; the National Museum of Mathematics
+date: 2015-07-01
 layout: project-page
 ---
 
