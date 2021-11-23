@@ -1,6 +1,7 @@
 ---
 title: Twitter Submission System
-subtitle: Open Syllabus Project
+company: Open Syllabus Project
+date: 2014-04-01
 layout: project-page
 ---
 

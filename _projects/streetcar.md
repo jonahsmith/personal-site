@@ -1,6 +1,7 @@
 ---
 title: Tucson Streetcar Analysis
-subtitle: <i>The New York Times</i> Student Journalism Institute
+company: <i>The New York Times</i> Student Journalism Institute
+date: 2015-05-01
 layout: project-page
 ---
 

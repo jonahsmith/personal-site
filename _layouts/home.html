@@ -5,12 +5,14 @@ layout: default
 <div class="page-content">
 	{{ content }}
 	<h2>Selected Projects</h2>
-  {% for page in site.data.featured %}
-		<section class="project">
-			<h3 class="project-title"><a href="{{ page.permalink }}">{{ page.name }}</a></h3>
-			<p class="project-subtitle">{{ page.company }}</p>
-		</section>
+	{% for project in site.projects reversed %}
+	<section class="project">
+		<h3 class="project-title"><a href="{{ project.url }}">{{ project.title }}</a></h3>
+		<p class="project-subtitle">{{ project.company }}</p>
+	</section>
 	{% endfor %}
 	<h2>Contact</h2>
-	<p>Feel free to connect with me on <a href="https://twitter.com/jonahesmith" rel="nofollow">Twitter</a>, <a href="https://github.com/jonahsmith">GitHub</a>, or <a href="https://www.linkedin.com/pub/jonah-smith/82/7bb/8b7" rel="nofollow">LinkedIn</a>.</p>
+	<p>Feel free to connect with me on <a href="https://twitter.com/jonahesmith" rel="nofollow">Twitter</a>, <a
+			href="https://github.com/jonahsmith">GitHub</a>, or <a href="https://www.linkedin.com/pub/jonah-smith/82/7bb/8b7"
+			rel="nofollow">LinkedIn</a>.</p>
 </div>

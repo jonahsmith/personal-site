@@ -9,3 +9,8 @@ markdown: kramdown
 permalink: /blog/:title
 sass:
   sass_dir: assets/css
+
+collections:
+  projects:
+    output: true
+    sort_by: date

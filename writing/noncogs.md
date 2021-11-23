@@ -1,6 +1,6 @@
 ---
 title: Non(cogs) in the Wheel
-subtitle: Early Noncognitive Traits and High School Graduation <br> Senior Honors Thesis, Department of Sociology, Columbia University
+company: Early Noncognitive Traits and High School Graduation <br> Senior Honors Thesis, Department of Sociology, Columbia University
 layout: page
 ---
 
