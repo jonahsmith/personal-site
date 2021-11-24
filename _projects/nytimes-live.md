@@ -34,7 +34,7 @@ I am one of the primary front-end developers on our live coverage formats, among
 
 Together, these formats form an essential part of the daily report and represent some of the newsroom's most visible assets.
 
-I have also been a strong and consistent advocate for performance optimization on the site, especially in the context of these live assets, which are among the most performant editorial assets on the The New York Times website despite their relative complexity and the amount of dynamic functionality.
+I have also been a strong and consistent advocate for performance optimization on the site, especially in the context of these live assets, which are among the most performant editorial assets on the The New York Times website despite their relative complexity and the amount of dynamic functionality they support.
 
 ## Features, workflows, and editor tools
 
@@ -54,7 +54,7 @@ The systems powering reporter updates are written in JavaScript and TypeScript a
 
 ### Live messaging
 
-In 2019 and 2020, I led several experimental efforts to incorporate push messaging as part of our strategy around live coverage, which involved the development of a signup module, a sending mechanism integrated into the core publishing platforms, and integration with an experimental internal system for sending push notification. In 2021, the team extended this work to make it a standard feature of all live coverage published at The Times.
+In 2019 and 2020, I led several experimental efforts to incorporate push messaging as part of our strategy around live coverage, including the development of a signup module, a sending mechanism integrated into the core publishing platforms, and integration with an experimental internal system for sending push notification. In 2021, the team extended this work to make it a standard feature of all live coverage published at The Times.
 
 ## Homepage and promotion
 

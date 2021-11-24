@@ -16,7 +16,7 @@ This project had many moving pieces requiring coordination between many differen
 
 ![Election win blog](/assets/images/portfolio/nytimes-elections/election-blog.png)
 
-One of my contributions to the election coverage was working directly with designers and the Graphics desk to design and build a custom two-column page layout on desktop. The layout is [still live](https://www.nytimes.com/live/2020/11/03/us/election-day), though certain elements of the page (including the results interactive) have some slight regressions.
+One of my contributions to the election coverage was working directly with designers and the Graphics desk to build a custom two-column page layout on desktop. The layout is [still live](https://www.nytimes.com/live/2020/11/03/us/election-day), though certain elements of the page (including the results interactive) have some slight regressions.
 
 ## Reporter Updates and race call cards
 
