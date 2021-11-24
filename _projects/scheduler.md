@@ -52,11 +52,11 @@ interactive tool.
 
 The opening screen is a visualization of the occupancy level by time of day.
 
-![Daily home](/assets/images/portfolio/scheduler/daily-home.png)
+![Daily home](/assets/images/optimized/portfolio/scheduler/daily-home.png)
 
 Users may drag the circles to change the occupancy levels of hour intervals.
 
-![Daily moving](/assets/images/portfolio/scheduler/daily-moving.png)
+![Daily moving](/assets/images/optimized/portfolio/scheduler/daily-moving.png)
 
 Pressing the save button sends an Ajax request to write the changes to the
 server.
@@ -66,11 +66,11 @@ server.
 The opening screen is a visualization of the occupancy levels over the course
 of the week.
 
-![Daily home](/assets/images/portfolio/scheduler/weekly-home.png)
+![Daily home](/assets/images/optimized/portfolio/scheduler/weekly-home.png)
 
 Users may click drop-down menus to change the day type for each day of the week.
 
-![Daily moving](/assets/images/portfolio/scheduler/weekly-dropdown.png)
+![Daily moving](/assets/images/optimized/portfolio/scheduler/weekly-dropdown.png)
 
 ## Why it matters
 

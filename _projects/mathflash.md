@@ -5,7 +5,7 @@ date: 2015-07-01
 layout: project-page
 ---
 
-![Math Flash](/assets/images/portfolio/mathflash/mathflash.jpg)
+![Math Flash](/assets/images/optimized/portfolio/mathflash/mathflash.jpg)
 
 I created Math Flash, a new permanent installation at MoMath: the National
 Museum of Mathematics, located in lower Manhattan. The exhibit relies on the

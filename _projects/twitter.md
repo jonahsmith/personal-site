@@ -32,12 +32,12 @@ This is an actual runtime situation navigated by the code. A user submitted a
 Git repository, an invalid file format for submission, and received feedback on
 why it could not be collected.
 
-![Error](/assets/images/portfolio/twitter/error.png)
+![Error](/assets/images/optimized/portfolio/twitter/error.png)
 
 The user corrected the mistake in a subsequent tweet, and received feedback
 about the success of the submission.
 
-![Success](/assets/images/portfolio/twitter/success.png)
+![Success](/assets/images/optimized/portfolio/twitter/success.png)
 
 ## Why it matters
 

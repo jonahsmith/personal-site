@@ -23,7 +23,7 @@ The workflows and formats we have created together have been used to cover some 
 
 ## Coverage formats
 
-![Ahmaud Arbery trial screenshot](/assets/images/portfolio/nytimes-live/live-blog.png)
+![Ahmaud Arbery trial screenshot](/assets/images/optimized/portfolio/nytimes-live/live-blog.png)
 
 I am one of the primary front-end developers on our live coverage formats, among the most dynamic on The New York Times platform. The core rendering logic was developed to be extensible to a number of different frontend expressions, including:
 
@@ -62,8 +62,8 @@ In addition to working on these features, workflows, and formats, I have played 
 
 During Biden's presidential inauguration, for example, I built almost all of the components in the primary homepage package (all but the summary text on the left-hand side):
 
-![The homepage package on inauguration day](/assets/images/portfolio/nytimes-live/live-hp.png)
+![The homepage package on inauguration day](/assets/images/optimized/portfolio/nytimes-live/live-hp.png)
 
 More recently, I built a live updating photo module ahead of the Olympics, which updates as new photos are filed into the blog.
 
-![Live updating photo module](/assets/images/portfolio/nytimes-live/live-photos-hp.png)
+![Live updating photo module](/assets/images/optimized/portfolio/nytimes-live/live-photos-hp.png)

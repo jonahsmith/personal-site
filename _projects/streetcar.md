@@ -5,7 +5,7 @@ date: 2015-05-01
 layout: project-page
 ---
 
-![Streetcar Chart](/assets/images/portfolio/streetcar/streetcar-paper.jpg)
+![Streetcar Chart](/assets/images/optimized/portfolio/streetcar/streetcar-paper.jpg)
 
 At *The New York Times* Student Journalism Institute in Tucson, AZ during
 Summer 2015, I considered the question, "have patterns of business development
