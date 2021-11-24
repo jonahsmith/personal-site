@@ -11,7 +11,7 @@ My first role at The New York Times was on a team focused on increasing the expr
 
 ## The Weekly pages
 
-![The Weekly](/assets/images/portfolio/nytimes-multimedia/the-weekly.png)
+![The Weekly](/assets/images/optimized/portfolio/nytimes-multimedia/the-weekly.png)
 
 I worked as part of a multidisciplinary team to build the [on-site experience](https://www.nytimes.com/2019/05/14/the-weekly/new-york-times-fx-hulu.html) for The Weekly, The New York Times's first foray into television. This included a new immersive article header type; a special streaming-service-inspired recirculation module; and a featured reporter module. For each of these projects, I contributed to developing the GraphQL and protocol buffer schema updates to support these features as part of the core publishing platform, and contributed to the frontend development, leading it in the case of the recirculation module.
 

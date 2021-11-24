@@ -59,18 +59,18 @@ When users visit the page, they are presented with the distribution of
 buildings for different levels of Energy Use Intensity from the Building
 Performance Database.
 
-![home](/assets/images/portfolio/benchmark/home.png)
+![home](/assets/images/optimized/portfolio/benchmark/home.png)
 
 Vertical lines locate the proposed system configurations in the distribution.
 Hovering over the lines or names reveals more specific information on the
 system configuration.
 
-![System options](/assets/images/portfolio/benchmark/options.png)
+![System options](/assets/images/optimized/portfolio/benchmark/options.png)
 
 Clicking on "CBECS" will switch to the other dataset, which has the same
 features.
 
-![CBECS](/assets/images/portfolio/benchmark/cbecs.png)
+![CBECS](/assets/images/optimized/portfolio/benchmark/cbecs.png)
 
 
 ## Why it matters

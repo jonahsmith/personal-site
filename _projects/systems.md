@@ -50,26 +50,26 @@ worked on using D3.
 Hovering over a rectangle highlights the same system in different options
 (along with the appropriate box in the legend).
 
-![Highlight](/assets/images/portfolio/systems/highlight.png)
+![Highlight](/assets/images/optimized/portfolio/systems/highlight.png)
 
 Clicking a rectangle isolates that subsystem across the different options.
 
-![One system](/assets/images/portfolio/systems/onesystem.png)
+![One system](/assets/images/optimized/portfolio/systems/onesystem.png)
 
 Clicking the upper left corner of the screen returns the user to the home
 screen. Clicking on an entry on the x-axis allows the user to isolate one
 option.
 
-![One option](/assets/images/portfolio/systems/oneoption.png)
+![One option](/assets/images/optimized/portfolio/systems/oneoption.png)
 
 Clicking on the x-axis again returns the user to the home screen.
 
-![Home](/assets/images/portfolio/systems/home.png)
+![Home](/assets/images/optimized/portfolio/systems/home.png)
 
 All of these options are also available after changing the metric selection
 (radio buttons on bottom).
 
-![One option](/assets/images/portfolio/systems/switching.png)
+![One option](/assets/images/optimized/portfolio/systems/switching.png)
 
 
 ## Why it matters
