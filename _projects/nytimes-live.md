@@ -9,7 +9,7 @@ date_override: Dec. 2019 – Present
 
 I was selected to serve as tech lead for live coverage when it became a [central focus for the newsroom](https://www.nytco.com/press/an-update-on-newsroom-leadership/) in 2021 and a product team was established to support it. I had been a central contributor to the company's existing live efforts prior to that.
 
-In this role, I partner closely with a product managers, designers, and editors across the newsroom to build and iterate on one of the most dynamic parts of the report at The New York Times. The team works end-to-end to optimize the publishing flow and build new formats and features to support the newsroom's editorial ambitions. Because of the effectiveness of these collaborations, the team has been held up within the company as an example of effective product development at the edge of the newsroom.
+In this role, I partner closely with product managers, designers, and editors across the newsroom to build and iterate on one of the most dynamic parts of the report at The New York Times. The team works end-to-end to optimize the publishing flow and build new formats and features to support the newsroom's editorial ambitions. Because of the effectiveness of these collaborations, the team has been held up within the company as an example of effective product development at the edge of the newsroom.
 
 The workflows and formats we have created together have been used to cover some of the most notable stories in recent memory, including:
 
@@ -42,15 +42,15 @@ The team's mandate extends from the filing process all the way to readers's devi
 
 ### Live Admin
 
-Live Admin is the primary editing interface for live coverage at The New York Times. It's a TypeScript application with a React frontend and Express backend that uses Firestore to supports near-realtime editing of live assets, used by dozens of editors daily.
+Live Admin is the primary editing interface for live coverage at The New York Times. It's a TypeScript application with a React frontend and Express backend that uses Firestore to support near-realtime editing of live assets. The system is used by dozens of editors daily.
 
 ### Reporter Updates
 
 The reporter update is a coverage format representing a brief piece of reporter analysis or on-the-ground reporting. I led the development of the initial prototype [as part of the 2020 election](/projects/nytimes-election-2020), and later led the effort to productionize it, making the format fully turnkey, integrating it into the broader publishing ecosystem, and building systems to establish a Slack-based filing workflow. I have also led the development of new features, including threaded updates, which allow reporters to respond to one another.
 
-The flow from filing to the web can be (and regularly is) completed in less than 30 seconds. Since it was created, the format has been used by reporters to break news at several historic moments, including the verdicts in the Derek Chauvin and Kyle Rittenhouse trials.
+The flow from filing to the web can be (and regularly is) completed in less than 30 seconds, making it one of the fastest ways to publish content at The New York Times. Since it was created, the format has been used by reporters to break news at several historic moments, including the verdicts in the Derek Chauvin and Kyle Rittenhouse trials.
 
-The systems powering reporter updates are written in JavaScript and TypeScript and serialize content into protocol buffers for publishing via gRPC. All system components were designed to be highly extensible and have been successfully extended to support workflows and formats outside of reporter updates.
+The systems powering reporter updates are written in JavaScript and TypeScript and serialize content into protocol buffers for publishing via gRPC. All system components were designed to be highly extensible and have been successfully extended to support workflows and formats outside reporter updates.
 
 ### Live messaging
 
