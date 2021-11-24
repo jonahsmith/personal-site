@@ -7,23 +7,23 @@ date: 2021-01-01
 date_override: Dec. 2019 – Present
 ---
 
-![Ahmaud Arbery trial screenshot](/assets/images/portfolio/nytimes-live/live-blog.png)
-
 I was selected to serve as tech lead for live coverage when it became a [central focus for the newsroom](https://www.nytco.com/press/an-update-on-newsroom-leadership/) in 2021 and a product team was established to support it. I had been a central contributor to the company's existing live efforts prior to that.
 
-In this role, I partner closely with a product managers, designers, and editors across the newsroom to build and nimbly iterate on one of the most dynamic parts of the report at The New York Times. The team works end-to-end to optimize the publishing flow and build new formats and features to support the newsroom's editorial ambitions. The effectiveness of these collaborations has contributed to the team becoming a "poster child" for new models of collaboration at the company.
+In this role, I partner closely with a product managers, designers, and editors across the newsroom to build and iterate on one of the most dynamic parts of the report at The New York Times. The team works end-to-end to optimize the publishing flow and build new formats and features to support the newsroom's editorial ambitions. Because of the effectiveness of these collaborations, the team has been held up within the company as an example of effective product development at the edge of the newsroom.
 
 The workflows and formats we have created together have been used to cover some of the most notable stories in recent memory, including:
 
 * The Trump Impeachment trials (both of them)
 * Coronavirus Pandemic (live coverage was part of the [winning Pulitzer Prize submission](https://www.pulitzer.org/winners/new-york-times-6))
-* The Jan. 6 Capitol Riots
 * The 2020 General Election
+* The Jan. 6 Capitol Riots
 * The Inauguration of Joe Biden
 * Derek Chauvin trial
 * The 2020 Summer Olympics (hosted in Tokyo in 2021)
 
 ## Coverage formats
+
+![Ahmaud Arbery trial screenshot](/assets/images/portfolio/nytimes-live/live-blog.png)
 
 I am one of the primary front-end developers on our live coverage formats, among the most dynamic on The New York Times platform. The core rendering logic was developed to be extensible to a number of different frontend expressions, including:
 
@@ -48,7 +48,7 @@ Live Admin is the primary editing interface for live coverage at The New York Ti
 
 The reporter update is a coverage format representing a brief piece of reporter analysis or on-the-ground reporting. I led the development of the initial prototype [as part of the 2020 election](/projects/nytimes-election-2020), and later led the effort to productionize it, making the format fully turnkey, integrating it into the broader publishing ecosystem, and building systems to establish a Slack-based filing workflow. I have also led the development of new features, including threaded updates, which allow reporters to respond to one another.
 
-The flow from filing to the web can be (and regularly is) completed in less than 30 seconds. Since it was created, the format has been used by reporters to break news at several historic moments, including the verdicts in the Derek Chauvin and Kyle Rittenhouse cases.
+The flow from filing to the web can be (and regularly is) completed in less than 30 seconds. Since it was created, the format has been used by reporters to break news at several historic moments, including the verdicts in the Derek Chauvin and Kyle Rittenhouse trials.
 
 The systems powering reporter updates are written in JavaScript and TypeScript and serialize content into protocol buffers for publishing via gRPC. All system components were designed to be highly extensible and have been successfully extended to support workflows and formats outside of reporter updates.
 

@@ -10,7 +10,7 @@ I was appointed my team's [DRI](https://about.gitlab.com/handbook/people-group/d
 
 In that capacity, I led the architecture, engineering, and delivery of a number of new editorially critical systems, all of which have been later reused and extended to support non-election use-cases. Many are now an essential part of the report.
 
-This project had many moving pieces requiring coordination across many different engineers and teams on an extraordinarily tight deadline, but was widely viewed as hugely successful internally.
+This project had many moving pieces requiring coordination between many different engineers and across many different teams on an extraordinarily tight deadline.
 
 ## Live blog layout
 
