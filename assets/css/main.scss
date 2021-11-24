@@ -10,7 +10,7 @@ $max-width: 700px;
 body {
     font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: $dark-text;
-    margin: 2em 2% 4em;
+    margin: 3em 1.25em;
     line-height: 1.4;
 
     @media (prefers-color-scheme: dark) {
