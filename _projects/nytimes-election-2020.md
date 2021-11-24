@@ -32,12 +32,11 @@ I also developed and implemented a novel approach to embedding this content alon
 
 ![Examples of alerts](/assets/images/portfolio/nytimes-elections/election-messaging-1.png)
 
-Because of my prior experimentation with messaging in live coverage, I also led the push notification messaging for the 2020 election. This included:
+I also led the push notification messaging for the 2020 election. This included:
 
 * Working with product managers, designers, and other engineers to build a signup module on the election tab in the app
 * Extending a system I had previously prototyped to generate subscription feeds for live assets
 * Working directly with newsroom editors on workflow around sending analysis alerts
-
 
 ![Signups in the app](/assets/images/portfolio/nytimes-elections/election-messaging-2.png)
 
